@@ -13,6 +13,12 @@
       "description": "Generate descriptive commit messages by analyzing git diffs following the Conventional Commits standard.",
       "source": "./git-commit-helper",
       "category": "developer-tools"
+    },
+    {
+      "name": "random-plugin",
+      "description": "random-skill",
+      "source": "./random-skill-plugin",
+      "category": "developer-tools"
     }
   ]
 }
