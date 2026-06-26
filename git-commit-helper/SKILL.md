@@ -1,7 +1,6 @@
 ---
 name: "git-commit-helper"
 description: "Generate descriptive commit messages by analyzing git diffs. Use when the user asks for help writing commit messages or reviewing staged changes."
-disable-model-invocation: false
 ---
 
 # Git Commit Helper Skill
