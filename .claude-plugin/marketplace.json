@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "company-plugins",
+  "description": "Internal Claude Code plugins for your company — custom skills, agents, and workflows.",
+  "repository": "https://github.com/prajvalbhardwaj-spec/plugins_repo",
+  "owner": {
+    "name": "Your Company",
+    "email": "engineering@yourcompany.com"
+  },
+  "plugins": [
+    {
+      "name": "git-commit-helper",
+      "description": "Generate descriptive commit messages by analyzing git diffs following the Conventional Commits standard.",
+      "author": {
+        "name": "Your Company"
+      },
+      "category": "developer-tools",
+      "path": "plugins/git-commit-helper"
+    }
+  ]
+}
